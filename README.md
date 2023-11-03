@@ -30,13 +30,15 @@ With a BA (Hons) in Music Composition, experience working in a microbiology lab 
 - Constructed and ran workshops for other native English teachers, covering topics such as student engagement, teacher animation, adapting popular stories for class, etc.
 
 **GOE (Gyeongnam Office of Education)** (June 2015 to May 2017)
-<em>Wolsung Elementary School, Wanwol Elementary School</em>
+<br><em>Wolsung Elementary School, Wanwol Elementary School</em>
+<br>Second Language English Teacher
 
 - Prepared classes according to the national curriculum in South Korea.
 - Planned and made many games such as PowerPoint games, card games, group games and more.
 - Independently planned 2 week long summer and winter school programs, including managing the available budgets.
 
 **Thermo Fisher Scientific** (May 2012 to May 2015)
+<br>Lab Technician
 
 - Followed strict instructions with acute accuracy to produce antimicrobial formulas.
 - Worked in pairs to produce antimicrobial formulas for immediate production use.
