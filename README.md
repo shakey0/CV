@@ -9,17 +9,17 @@ With a BA (Hons) in Music Composition, experience working in a microbiology lab 
 | ---------------------------- | ----------------- | ----------------- |
 | **[Reliability Project](https://github.com/shakey0/ReliabilityProject)** | Improving reliability and ensuring security for a lifelike system on AWS. Migrating from a legacy system to a new serverless backend. | AWS Services (EC2, S3, CloudFront, API Gateway, Lambda, DynamoDB, Athena, IAM), Nginx, Python, Curl |
 | **[Chitter Project](https://github.com/shakey0/chitter_project)** | A Facebook/Twitter style webapp where users sign up and can post and see others' comments. | Python, Flask, PostgreSQL, JavaScript, AJAX, CSS, HTML, Bcrypt, Redis, Playwright |
-| **[Takeaway Project](https://github.com/shakey0/TakeawayProject)** | A CLI app where customers can order takeaway dishes. Has some interesting technical features. | Python, Pytest, Unit test (Mock) |
+| **[Takeaway Project](https://github.com/shakey0/TakeawayProject)** | A CLI app where customers can order takeaway dishes. Has some interesting technical features. | Python, Pytest, Unit Test (Mock) |
 | **[Extravagant Tic Tac Toe](https://github.com/shakey0/ExtravagantTicTacToe)** | A very extravagant CLI Tic Tac Toe app. Includes many winning shapes and creative features. | Python |
 
 
 ## Work Experience
 
 **CIPTC (China (Shenzhen) International Personnel Training Centre)** (February 2018 to January 2023)
-<em>Donghai Experimental Primary School, Futian Primary School, Meiyuan Primary School</em>
-Second Language English Teacher
+<br><em>Donghai Experimental Primary School, Futian Primary School, Meiyuan Primary School</em>
+<br>Second Language English Teacher
 
-- Lead classes of 1-55 students.
+- Lad classes of 1-55 students.
 - Methodically planned and structured my own curriculum each semester according to the standards and objectives of the Shenzhen Education Bureau.
 - Taught a wide range of abilities from beginner to near-fluency level (A1 to C1).
 - Wrote over 60 Reader's Theatre scripts of around 900-1200 words per script which I integrated into my lesson plans.
