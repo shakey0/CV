@@ -24,7 +24,7 @@ With a BA (Hons) in Music Composition, experience working in a microbiology lab 
 - Taught a wide range of abilities from beginner to near-fluency level (A1 to C1).
 - Wrote over 60 Reader's Theatre scripts of around 900-1200 words per script which I integrated into my lesson plans.
 - Made over 150 PowerPoint presentations of popular stories and science/history related topics.
-- Was part of an award-winning curriculum project adapting traditional Chinese stories into English versions.
+- Was part of [an award-winning curriculum project](https://drive.google.com/file/d/1T18aGx3VVYXYYnBeSc45IGPTyMiDQ0zW/view?usp=sharing) adapting traditional Chinese stories into English versions.
 - Led drama classes and prepared students for school plays.
 - Mentored over 30 other native English teachers help them enhance their classes and achieve their goals.
 - Constructed and ran workshops for other native English teachers, covering topics such as student engagement, teacher animation, adapting popular stories for class, etc.
