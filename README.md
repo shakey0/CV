@@ -1,7 +1,6 @@
 ## Andrew Shakespeare
 
-
-With a BA (Hons) in Music Composition, experience working in a microbiology lab and extensive experience as an English teacher in Asia, I've recently honed my passion for technology by graduating from Makers Academy's coding bootcamp ([see below in Education](https://github.com/shakey0/CV#L65)). Eager to take on and participate in challenging tech projects, I bring a record of driving results and a zeal for innovation.
+With a BA (Hons) in Music Composition, experience working in a microbiology lab and extensive experience as an English teacher in Asia, I've recently honed my passion for technology by graduating from Makers Academy's coding bootcamp ([see below in Education](#line65)). Eager to take on and participate in challenging tech projects, I bring a record of driving results and a zeal for innovation.
 
 ## Projects
 
@@ -62,6 +61,7 @@ With a BA (Hons) in Music Composition, experience working in a microbiology lab 
 - <em>Curriculum Design Project:</em> This required understanding the end-users (students), much like user-centered design in software, ensuring the end product is suitable for its intended audience.
 - <em>Creating Educational Games:</em> Designing educational games with PowerPoint or other tools showcases my ability to engage users and enhance their experience, a core principle in interactive software design.
 
+<a name="line65"></a>
 ## Education
 
 #### Makers Academy Software & Cloud Engineering Bootcamp (July 2023 to October 2023)
