@@ -64,7 +64,7 @@ With a BA (Hons) in Music Composition, experience working in a microbiology lab 
 
 ## Education
 
-#### Makers Academy (July 2023 to October 2023)
+#### Makers Academy Software & Cloud Engineering Bootcamp (July 2023 to October 2023)
 - Completed user story-driven tasks utilizing object-oriented programming techniques.
 - Constructed class systems and backend functionality using test-driven development principles, including unit testing with Mock.
 - Created web apps based on user stories using Flask and a PostregSQL database.
