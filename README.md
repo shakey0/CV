@@ -19,7 +19,7 @@ With a BA (Hons) in Music Composition, experience working in a microbiology lab 
 <br><em>Donghai Experimental Primary School, Futian Primary School, Meiyuan Primary School</em>
 <br>Second Language English Teacher
 
-- Lad classes of 1-55 students.
+- Led classes of 1-55 students.
 - Methodically planned and structured my own curriculum each semester according to the standards and objectives of the Shenzhen Education Bureau.
 - Taught a wide range of abilities from beginner to near-fluency level (A1 to C1).
 - Wrote over 60 Reader's Theatre scripts of around 900-1200 words per script which I integrated into my lesson plans.
