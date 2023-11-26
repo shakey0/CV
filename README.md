@@ -6,8 +6,10 @@ With a BA (Hons) in Music Composition, experience working in a microbiology lab 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
+| **[Shuffle Shack Project](https://github.com/shakey0/ShuffleShackProject)** | An AirBnB style webapp where users can search and book rooms in any part of the world. Focuses on complex database queries and sorting to retrieve precise results while avoiding the N+1 problem. | Python, Flask, PostgreSQL, SQLAlchemy, JavaScript, AJAX, CSS, HTML, Bcrypt, Playwright |
+| **[Flask Project Template](https://github.com/shakey0/flask-starter-template)** | A script to run in the command line that creates all the files, folders, databases, and testing environment for a new Python-Flask project. | Python, Flask, PostgreSQL, SQLite, SQLAlchemy, Pytest, Playwright |
 | **[Reliability Project](https://github.com/shakey0/ReliabilityProject)** | Improving reliability and ensuring security for a lifelike system on AWS. Migrating from a legacy system to a new serverless backend. | AWS Services (EC2, S3, CloudFront, API Gateway, Lambda, DynamoDB, Athena, IAM), Nginx, Python, Curl |
-| **[Chitter Project](https://github.com/shakey0/chitter_project)** | A Facebook/Twitter style webapp where users sign up and can post and see others' comments. | Python, Flask, PostgreSQL, JavaScript, AJAX, CSS, HTML, Bcrypt, Redis, Playwright |
+| **[Chitter Project](https://github.com/shakey0/chitter_project)** | A Facebook/Twitter style webapp where users sign up and can post and see others' comments, with special focus on avoiding the N+1 problem for database queries. | Python, Flask, PostgreSQL, JavaScript, AJAX, CSS, HTML, Bcrypt, Redis, Playwright |
 | **[Takeaway Project](https://github.com/shakey0/TakeawayProject)** | A CLI app where customers can order takeaway dishes. Has some interesting technical features. | Python, Pytest, Unit Test (Mock) |
 | **[Extravagant Tic Tac Toe](https://github.com/shakey0/ExtravagantTicTacToe)** | A very extravagant CLI Tic Tac Toe app. Includes many winning shapes and creative features. | Python |
 
