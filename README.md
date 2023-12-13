@@ -60,7 +60,7 @@ With a BA (Hons) in Music Composition, experience working in a microbiology lab 
 
 **Examples of Relevant Projects:**
 - <em>Reader’s Theatre Script Writing:</em> Crafting scripts involved not just writing, but understanding character development and plot progression—similar to designing user flows in software.
-- [Interactive Training for English Educators in China: ](https://isacteach.notion.site/PD-Training-Story-based-Approach-2641fd5db8344f44b93073bce6ca1f60) This training, centered on using storytelling to engage students in learning English, mirrors key software development skills. It highlights the importance of narrative in user engagement, akin to creating compelling content in software, and underscores adaptability and user-focused design, essential for effective software solutions.
+- <em>[Interactive Training for English Educators in China:](https://isacteach.notion.site/PD-Training-Story-based-Approach-2641fd5db8344f44b93073bce6ca1f60)</em> This training, centered on using storytelling to engage students in learning English, mirrors key software development skills. It highlights the importance of narrative in user engagement, akin to creating compelling content in software, and underscores adaptability and user-focused design, essential for effective software solutions.
 - <em>Curriculum Design Project:</em> This required understanding the end-users (students), much like user-centered design in software, ensuring the end product is suitable for its intended audience.
 - <em>Creating Educational Games:</em> Designing educational games with PowerPoint or other tools showcases my ability to engage users and enhance their experience, a core principle in interactive software design.
 
