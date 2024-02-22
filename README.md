@@ -17,7 +17,7 @@ As a Makers Academy graduate, I specialise in Software and DevOps Engineering wi
 ## Education
 
 #### Makers Academy Software & Cloud Engineering Bootcamp (July 2023 to October 2023)
-- Completed user story-driven tasks utilizing object-oriented programming techniques.
+- Completed user story-driven tasks utilising object-oriented programming techniques.
 - Constructed class systems and backend functionality using test-driven development principles, including unit testing with Mock.
 - Created web apps based on user stories using Flask and a PostregSQL database.
 - Worked collaboratively in a team to create an Airbnb style web app, using Trello tickets and creating GitHub pull requests.
@@ -66,7 +66,7 @@ As a Makers Academy graduate, I specialise in Software and DevOps Engineering wi
 - Writing Reader’s Theatre scripts required systematic thinking to create engaging narratives, mirroring the process of developing use cases and software documentation.
 
 **Technical Skills**
-- Creating over 150 PowerPoint presentations, as well as producing over 30 teaching videos using OBS Studios showcases my ability to learn and utilize software tools to produce content, a useful skill when it comes to grasping new programming languages or development environments.
+- Creating over 150 PowerPoint presentations, as well as producing over 30 teaching videos using OBS Studios showcases my ability to learn and utilise software tools to produce content, a useful skill when it comes to grasping new programming languages or development environments.
 
 **Adaptability and Continuous Learning**
 - Teaching students across a wide range of abilities required me to continuously adapt my teaching style and materials, which shows my ability to learn and adjust — key to the ever-evolving tech landscape.
