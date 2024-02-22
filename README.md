@@ -56,17 +56,8 @@ As a Makers Academy graduate, I specialise in Software and DevOps Engineering wi
 <br><em>Wolsung Elementary School, Wanwol Elementary School</em>
 <br>Second Language English Teacher
 
-- Prepared classes according to the national curriculum in South Korea.
-- Planned and made many games such as PowerPoint games, card games, group games and more.
-- Independently planned 2 week long summer and winter school programs, including managing the available budgets.
-
 **Thermo Fisher Scientific** (May 2012 to May 2015)
 <br>Lab Technician
-
-- Followed strict instructions with acute accuracy to produce antimicrobial formulas.
-- Worked in pairs to produce antimicrobial formulas for immediate production use.
-- Set up production equipment for production line staff to use.
-- Checked instruction sheets for accuracy and to ensure the correct formulas were being used.
 
 ## Skills
 
