@@ -11,8 +11,6 @@ As a Makers Academy graduate, I specialise in Software and DevOps Engineering wi
 | **[Reliability Project](https://github.com/shakey0/ReliabilityProject)** | Improving reliability and ensuring security for a lifelike system on AWS. Migrating from a legacy system to a new serverless backend. | AWS Services (EC2, S3, CloudFront, API Gateway, Lambda, DynamoDB, Athena, IAM), Nginx, Python, Curl |
 | **[Chitter Project](https://github.com/shakey0/chitter_project)**<br><em style="color: red;">[See live site](https://chitter-by-shakey0.onrender.com/)</em> | A Facebook/Twitter style web app where users sign up and can post, see and like comments. Special focus on limiting database queries for scalability, and Redis for security. | Python, Flask, PostgreSQL, JavaScript, Redis, Playwright, Docker, ElephantSQL, GitHub Actions, Render |
 | **[MakersBNB](https://github.com/shakey0/Project1_MakersBNB)** | An Airbnb style web app where users can post available rooms and book rooms others have posted. Focused on Agile Development with stand up meetings and sprints to meet the deadline in a short time frame. | Python, Flask, PostgreSQL, Pytest, Playwright, CSS, HTML |
-| **[Takeaway Project](https://github.com/shakey0/TakeawayProject)** | A CLI app where customers can order takeaway dishes. Has some interesting technical features. | Python, Pytest, Unit Test (Mock) |
-| **[Extravagant Tic Tac Toe](https://github.com/shakey0/ExtravagantTicTacToe)** | A very extravagant CLI Tic Tac Toe app. Includes many winning shapes and creative features. | Python |
 
 ## Education
 
