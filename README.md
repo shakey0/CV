@@ -44,6 +44,16 @@ As a Makers Academy graduate, I specialise in Software and DevOps Engineering wi
 
 ## Work Experience
 
+**Movement Industries Ltd** (March 2024 - Present)
+<br>QA Enginner <i>(Temporary, Part Time)</i>
+
+- Resolving bugs utilising Ruby/Rails, React, JavaScript, CSS, SCSS and HTML to enhance software functionality.
+- Evaluating and integrating new packages, gems and libraries to meet evolving project needs.
+- Conducting software tests to identify bugs and areas for improvement, documenting findings in Linear.
+- Organising and managing Linear tickets for optimal workflow and efficiency.
+- Managing version control and collaborating through Git and GitHub, initiating pull requests for changes.
+- Updating the marketing website in Squarespace (also using CSS and JavaScript) from Figma designs provided by the marketing team.
+
 **CIPTC (China (Shenzhen) International Personnel Training Centre)** (February 2018 to January 2023)
 <br><em>Donghai Experimental Primary School, Futian Primary School, Meiyuan Primary School</em>
 <br>Second Language English Teacher
