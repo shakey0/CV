@@ -55,7 +55,7 @@ As a Makers Academy graduate, I specialise in Software and DevOps Engineering wi
 - Updating the marketing website in Squarespace (also using CSS and JavaScript) from Figma designs provided by the marketing team.
 
 **CIPTC (China (Shenzhen) International Personnel Training Centre)** (February 2018 to January 2023)
-<br><em>Donghai Experimental Primary School, Futian Primary School, Meiyuan Primary School</em>
+<br><em>Meiyuan Primary School, Futian Primary School, Donghai Experimental Primary School</em>
 <br>Second Language English Teacher
 
 - Was part of [an award-winning curriculum project](https://drive.google.com/file/d/1T18aGx3VVYXYYnBeSc45IGPTyMiDQ0zW/view?usp=sharing) adapting traditional Chinese stories into English versions.
