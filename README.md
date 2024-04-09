@@ -1,14 +1,14 @@
 ## Andrew Shakespeare
 
-As a Makers Academy graduate, I specialise in Software and DevOps Engineering with proficiency in Python, JavaScript, SQL, AWS, Kubernetes, Docker, and GitHub Actions. With over seven years of teaching experience, I've developed strong skills in design, management, adaptability, and patience, effectively educating diverse student groups and creating customised curricula. These skills have equipped me to solve problems efficiently and quickly pick up new skills as required. Eager to apply my background in teaching to a tech-driven career, I am passionate about pursuing a fulfilling role in backend development and contributing to innovative projects.
+As a Makers Academy graduate, I specialise in Software and DevOps Engineering with proficiency in Python, Django, JavaScript, PostgreSQL, AWS, Docker, and GitHub Actions. With over seven years of teaching experience, I've developed strong skills in design, management, adaptability, and patience, effectively educating diverse student groups and creating customised curricula. These skills have equipped me to solve problems efficiently and quickly pick up new skills as required. Eager to apply my background in teaching to a tech-driven career, I am passionate about pursuing a fulfilling role in full-stack development and contributing to innovative projects.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
+| **Ringround** | A versatile digital phone bank SaaS, enhancing campaign engagement through streamlined calling and data management for voter outreach, member support, and fundraising activities. | Ruby, Rails, React, JavaScript, PostgreSQL, Redis, SCSS, CSS, HTML, Cypress |
 | **[DjangoGym](https://github.com/shakey0/DjangoGym)** | A gym website featuring a simple yet flexible design, allowing users to learn about the gym's services and book classes, while also enabling staff to add and update various information and services for the gym. | Python, Django, PostgreSQL, JavaScript, SortableJS, Bootstrap, CSS, HTML, Docker |
 | **[Games Zero Project](https://github.com/shakey0/Games0Project)**<br><em style="color: red;">[See live site](https://games0-by-shakey0.onrender.com/)</em> | A quiz/games web app with multiple choice, true/false, and type-in-answer questions. Focuses on the use of Redis to cache questions retrieved from APIs as well as cache the data for each game in progress. | Python, Flask, Redis, PostgreSQL, SQLAlchemy, JavaScript, Playwright, Docker, ElephantSQL, GitHub Actions, Render |
-| **[Flask Project Template](https://github.com/shakey0/flask-starter-template)** | A script to run in the command line that creates all the files, folders, database, and testing environment for a new Python-Flask project. | Python, Flask, PostgreSQL, SQLite, SQLAlchemy, Pytest, Playwright |
 | **[Reliability Project](https://github.com/shakey0/ReliabilityProject)** | Improving reliability and ensuring security for a lifelike system on AWS. Migrating from a legacy system to a new serverless backend. | AWS Services (EC2, S3, CloudFront, API Gateway, Lambda, DynamoDB, Athena, IAM), Nginx, Python, Curl |
 | **[Chitter Project](https://github.com/shakey0/chitter_project)**<br><em style="color: red;">[See live site](https://chitter-by-shakey0.onrender.com/)</em> | A Facebook/Twitter style web app where users sign up and can post, see and like comments. Special focus on limiting database queries for scalability, and Redis for security. | Python, Flask, PostgreSQL, JavaScript, Redis, Playwright, Docker, ElephantSQL, GitHub Actions, Render |
 | **[MakersBNB](https://github.com/shakey0/Project1_MakersBNB)** | An Airbnb style web app where users can post available rooms and book rooms others have posted. Focused on Agile Development with stand up meetings and sprints to meet the deadline in a short time frame. | Python, Flask, PostgreSQL, Pytest, Playwright, CSS, HTML |
@@ -16,17 +16,18 @@ As a Makers Academy graduate, I specialise in Software and DevOps Engineering wi
 ## Education
 
 #### Makers Academy Software & Cloud Engineering Bootcamp (July 2023 to October 2023)
-- Worked collaboratively in a team to create an Airbnb style web app, using Trello tickets and creating GitHub pull requests.
-- Worked collaboratively in a team on a reliability project to improve reliability and security in a lifelike system.
-- Worked collaboratively in a team to migrate from a legacy system to our own serverless backend.
-- Completed user story-driven tasks utilising object-oriented programming techniques.
-- Constructed class systems and backend functionality using test-driven development principles, including unit testing with Mock.
-- Created web apps based on user stories using Flask and a PostregSQL database.
-- Deployed containerised apps using Docker.
-- Constructed a serverless system to serve a static website using AWS Lambda.
+- Worked collaboratively to create an Airbnb style web app, using Trello tickets, Miro boards and initiating GitHub pull requests.
+- Developed dynamic frontend functionality for web apps, using JavaScript, jQuery, CSS, SCSS, and HTML to meet specific user requirements.
+- Completed multiple user story-driven tasks utilising object-oriented programming techniques in Python with PostgreSQL databases.
+- Constructed class systems in Python using test-driven development principles, including unit testing with unittest.mock.
+- Used Redis, Bcrypt, and various principles to ensure security, implement rate limiting, and prevent various kinds of attacks.
+- Set up CI/CD pipelines in GitHub Actions and Jenkins to build, run tests, and then deploy to AWS or Render.
+- Worked collaboratively on a reliability project to improve reliability and security in a lifelike system on AWS.
+- Worked collaboratively to migrate from a legacy system to our own serverless backend using AWS Lambda, API Gateway, and DynamoDB.
+- Deployed containerised applications on AWS and Render using Docker and Docker Hub.
+- Constructed a serverless system to serve a static website using AWS Lambda and API Gateway.
 - Used Terraform to automate the construction of cloud systems on AWS.
 - Conducted security audits using tools such as Bearer, Bandit, and OWASP on codebases to find security vulnerabilities and address them.
-- Used Bcrypt, Redis, and various principles to ensure passwords were handled securely and prevent brute force attacks.
 
 #### TESOL (Teaching English to Speakers of Other Languages) - XploreAsia - (July 2014 to August 2014)
 - 120 Hour Online Certification
