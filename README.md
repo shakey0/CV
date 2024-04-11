@@ -6,7 +6,7 @@ As a Makers Academy graduate, I specialise in Software and DevOps Engineering wi
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Ringround** | A versatile digital phone bank SaaS, enhancing campaign engagement through streamlined calling and data management for voter outreach, member support, and fundraising activities. | Ruby, Rails, React, JavaScript, PostgreSQL, Redis, SCSS, CSS, HTML, Cypress |
+| **Ringround** | A versatile digital phone bank SaaS, enhancing campaign engagement through streamlined calling and data management for voter outreach, member support, and fundraising activities. | Ruby, Rails, React, JavaScript, PostgreSQL, Redis, SCSS, CSS, HTML, Spec, Cypress |
 | **[DjangoGym](https://github.com/shakey0/DjangoGym)** | A gym website featuring a simple yet flexible design, allowing users to learn about the gym's services and book classes, while also enabling staff to add and update various information and services for the gym. | Python, Django, PostgreSQL, JavaScript, SortableJS, Bootstrap, CSS, HTML, Docker |
 | **[Games Zero Project](https://github.com/shakey0/Games0Project)**<br><em style="color: red;">[See live site](https://games0-by-shakey0.onrender.com/)</em> | A quiz/games web app with multiple choice, true/false, and type-in-answer questions. Focuses on the use of Redis to cache questions retrieved from APIs as well as cache the data for each game in progress. | Python, Flask, Redis, PostgreSQL, SQLAlchemy, JavaScript, Playwright, Docker, ElephantSQL, GitHub Actions, Render |
 | **[Reliability Project](https://github.com/shakey0/ReliabilityProject)** | Improving reliability and ensuring security for a lifelike system on AWS. Migrating from a legacy system to a new serverless backend. | AWS Services (EC2, S3, CloudFront, API Gateway, Lambda, DynamoDB, Athena, IAM), Nginx, Python, Curl |
@@ -49,7 +49,8 @@ As a Makers Academy graduate, I specialise in Software and DevOps Engineering wi
 
 - Resolving bugs utilising Ruby/Rails, React, JavaScript, CSS, SCSS and HTML to enhance software functionality.
 - Evaluating and integrating new packages, gems and libraries to meet evolving project needs.
-- Conducting software tests to identify bugs and areas for improvement, documenting findings in Linear.
+- Updating and running end-to-end tests in Cypress and unit tests in Spec.
+- Conducting user journey tests to identify bugs and areas for improvement, and creating tickets for these in Linear.
 - Organising and managing Linear tickets for optimal workflow and efficiency.
 - Managing version control and collaborating through Git and GitHub, initiating pull requests for changes.
 - Updating the marketing website in Squarespace (also using CSS and JavaScript) from Figma designs provided by the marketing team.
