@@ -1,6 +1,6 @@
 ## Andrew Shakespeare
 
-As a Makers Academy graduate, I specialise in Software and DevOps Engineering with proficiency in Python, Django, Ruby, Rails, JavaScript, PostgreSQL, Playwright, AWS, Docker, and GitHub Actions. With over seven years of teaching experience, I've developed strong skills in design, management, adaptability, and patience, effectively educating diverse student groups and creating customised curricula. These skills have equipped me to solve problems efficiently and quickly pick up new skills as required. Eager to apply my background in teaching to a tech-driven career, I am passionate about pursuing a fulfilling role in full-stack development and contributing to innovative projects.
+As a Makers Academy graduate, I specialise in Software and DevOps Engineering with proficiency in Python, Django, Ruby, Rails, JavaScript, PostgreSQL, Playwright, AWS, Docker, and GitHub Actions. With over seven years of teaching experience, I've developed strong skills in design, management, adaptability, and patience, effectively educating diverse student groups and creating customised curricula. These skills have equipped me to solve problems efficiently and quickly pick up new skills as required. Eager to apply my background in teaching to a tech-driven career, I am passionate about pursuing a fulfilling role in a development team and contributing to innovative projects.
 
 ## Projects
 
