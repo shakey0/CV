@@ -20,6 +20,7 @@ As a Makers Academy graduate, I specialise in Software and DevOps Engineering wi
 - Developed dynamic frontend functionality for web apps, using JavaScript, jQuery, CSS, SCSS, and HTML to meet specific user requirements.
 - Completed multiple user story-driven tasks utilising object-oriented programming techniques in Python with PostgreSQL databases.
 - Constructed class systems in Python using test-driven development principles, including unit testing with unittest.mock.
+- Wrote and conducted extensive end-to-end tests with Playwright to ensure robust coverage and reliability throughout the software development lifecycle.
 - Used Redis, Bcrypt, and various principles to ensure security, implement rate limiting, and prevent various kinds of attacks.
 - Set up CI/CD pipelines in GitHub Actions and Jenkins to build, run tests, and then deploy to AWS or Render.
 - Worked collaboratively on a reliability project to improve reliability and security in a lifelike system on AWS.
