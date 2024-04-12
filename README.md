@@ -48,10 +48,10 @@ As a Makers Academy graduate, I specialise in Software and DevOps Engineering wi
 <br>QA Enginner <i>(Temporary, Part Time)</i>
 
 - Resolving bugs utilising Ruby/Rails, React, JavaScript, CSS, SCSS and HTML to enhance software functionality.
-- Evaluating and integrating new packages, gems and libraries to meet evolving project needs.
 - Updating and running end-to-end tests in Cypress and unit tests in Spec.
 - Conducting user journey tests to identify bugs and areas for improvement, and creating tickets for these in Linear.
 - Organising and managing Linear tickets for optimal workflow and efficiency.
+- Evaluating and integrating new packages, gems and libraries to meet evolving project needs.
 - Managing version control and collaborating through Git and GitHub, initiating pull requests for changes.
 - Updating the marketing website in Squarespace (also using CSS and JavaScript) from Figma designs provided by the marketing team.
 
